@@ -10,3 +10,9 @@ ABC;Váci út 10;italok;üdítők;üdítő;narancslé;8;48;150
 ABC;Váci út 10;italok;ásványvíz;ásványvíz;ásványvíz;9;50;100
 ABC;Váci út 10;élelmiszer;csemegék;csokoládé;csokoládé;10;20;400
 Lidl;Vác 2600 Alma út 12;élelmiszer;csemegék;cukorka;cukorka;11;18;350
+Levi_bolt;Váci út 20;élelmiszer;tejtermék;tehén eredetű;; tehén tej;20;19;1000
+Levi_bolt;Váci út 20;élelmiszer;tejtermék;tehén eredetű;; vaj;2;19;100
+Levi_bolt;Váci út 20;élelmiszer;tejtermék;tehén eredetű;; savó;1;1;1500
+Spar;Váci út 25;élelmiszer;zöldségek;nem gyümölcs;krumpli;5;45;180
+Spar;Váci út 25;élelmiszer;zöldségek;de lehet gümölcs;paradicsiom;5;45;180
+Spar;Váci út 25;ruha;textil;pólók;sárgarövidújú;5;45;180
